@@ -1,5 +1,4 @@
 # log_analysis_ndfs
-udacity project for fullstack
 
 ### How to Run?
 
